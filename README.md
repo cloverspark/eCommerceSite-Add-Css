@@ -4,7 +4,7 @@
 This is an in-class project for the CPW 213 course. 
 
 ## About
-this is a basic eCommerce site to learn ASP.NET Core MVC Concepts.
+this is a basic data driven eCommerce site to learn ASP.NET Core MVC Concepts.
 we will learn model binding and bootstrap for styling 
 
 ## Prerequisites 
